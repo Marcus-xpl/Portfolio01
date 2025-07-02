@@ -1,14 +1,8 @@
-# Portfolio01
-
-
+## Portfolio01
 
 Desafio: Criando um Portfolio, para testar seu conhecimento.
 
-Objetivo:
-
-Construir um portfólio: seções, estilos e funcionalidades.
-
-
+##
 incluindo:
 
 Cabeçalho com menu de navegação.
