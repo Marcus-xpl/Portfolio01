@@ -1,6 +1,6 @@
 ## Portfolio01
 
-Desafio: Criando um Portfolio, para testar seu conhecimento.
+Desafio: Criando um Portfolio, para testar meu conhecimento.
 
 ##
 incluindo:
