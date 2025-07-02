@@ -1,6 +1,6 @@
 # 📄 Technical Documentation – Personal Portfolio with Typing Effect and Navigation
 
-This is a personal portfolio project developed with *HTML, **CSS, and **vanilla JavaScript*. The site includes internal navigation with anchor links, a typing effect on the subtitle in the introduction section, buttons that open GitHub repositories, and is fully responsive for both mobile and desktop devices. The entire project runs in the browser with no external dependencies.
+This is a personal portfolio project developed with HTML, CSS, and vanilla JavaScript. The site includes internal navigation with anchor links, a typing effect on the subtitle in the introduction section, buttons that open GitHub repositories, and is fully responsive for both mobile and desktop devices. The entire project runs in the browser with no external dependencies.
 
 
 
